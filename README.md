@@ -17,4 +17,5 @@ This is a small guide about installing Linux on Xbox 360.
 
 ### Credits
 - fabledkebab - created this repo
+- The guy from 7Sins - served the Corona-compatible Xell (it's compatible with all revisions)
 - IDK who else :)
